@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PANatalia
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Machine Learning A-Z™: Hands-On Python & R In Data Science
+- 👀 I’m interested in Data Analysis, Data Science and Machine Learning
+- 
 
 <!---
 PANatalia/PANatalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
